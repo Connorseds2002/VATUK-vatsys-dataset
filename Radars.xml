@@ -1,1 +1,39 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<Radars xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Radar Name="LFPG TAR" Type="PRI" Elevation="392" MinRange="0" MaxRange="50">
+    <Lat>49.0097237</Lat>
+    <Long>2.547778</Long>
+  </Radar>
+  <Radar Name="LFPG SSR" Type="SSR_ModeS" Elevation="392" MinRange="0" MaxRange="300">
+    <Lat>49.0097237</Lat>
+    <Long>2.547778</Long>
+  </Radar>
+  <Radar Name="LFPG SMR" Type="SMR_ADSB" Elevation="392" MinRange="0" MaxRange="5">
+    <Lat>49.0097237</Lat>
+    <Long>2.547778</Long>
+  </Radar>
+  <Radar Name="EIDW TAR" Type="PRI" Elevation="242" MinRange="0" MaxRange="50">
+    <Lat>53.42139</Lat>
+    <Long>-6.27</Long>
+  </Radar>
+  <Radar Name="EIDW SSR" Type="SSR_ModeS" Elevation="242" MinRange="0" MaxRange="300">
+    <Lat>53.42139</Lat>
+    <Long>-6.27</Long>
+  </Radar>
+  <Radar Name="EIDW SMR" Type="SMR_ADSB" Elevation="242" MinRange="0" MaxRange="5">
+    <Lat>53.42139</Lat>
+    <Long>-6.27</Long>
+  </Radar>
+  <Radar Name="EHAM TAR" Type="PRI" Elevation="-11" MinRange="0" MaxRange="50">
+    <Lat>52.3080559</Lat>
+    <Long>4.764167</Long>
+  </Radar>
+  <Radar Name="EHAM SSR" Type="SSR_ModeS" Elevation="-11" MinRange="0" MaxRange="300">
+    <Lat>52.3080559</Lat>
+    <Long>4.764167</Long>
+  </Radar>
+  <Radar Name="EHAM SMR" Type="SMR_ADSB" Elevation="-11" MinRange="0" MaxRange="5">
+    <Lat>52.3080559</Lat>
+    <Long>4.764167</Long>
+  </Radar>
+</Radars>

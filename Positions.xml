@@ -1,1 +1,26 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<Positions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Position Name="EIDW DUBLIN_INTL" DefaultRange="100" Rotation="0" MagneticVariation="2.64644313" Type="ASD" DefaultCenter="+532517.0-0061612.0">
+    <Maps>
+      <Map Name="EIDW/EIDW TMA" />
+      <Map Name="EIDW/RANGE" />
+      <Map Name="FIR_BOUNDARIES" />
+      <Map Name="WF_ROUTES" />
+      <Map Name="EIDW/COAST" />
+      <Map Name="EIDW/RTCC" />
+    </Maps>
+    <Sectors>
+      <Sector Name="EIDWA" />
+    </Sectors>
+  </Position>
+  <Position Name="EIDW DUBLIN_INTL" ASMGCSAirport="EIDW" DefaultRange="3" Rotation="0" MagneticVariation="2.64644313" Type="ASMGCS" DefaultCenter="+532517.0-0061612.0">
+    <Maps>
+      <Map Name="EIDW/EIDW_BAK" />
+      <Map Name="EIDW/EIDW_BLDS" />
+      <Map Name="EIDW/EIDW_APRS" />
+      <Map Name="EIDW/EIDW_TWYS" />
+      <Map Name="EIDW/EIDW_RWYS" />
+    </Maps>
+    <Sectors />
+  </Position>
+</Positions>

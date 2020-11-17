@@ -1,1 +1,57 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<Sectors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sector Name="LFPGA" FullName="CHARLES-DE-GAULLE APP" Callsign="LFPG_APP" Frequency="0" HandoffEligible="true" CSECEligible="true">
+    <Volumes>LFPG_TMA</Volumes>
+  </Sector>
+  <Sector Name="LFPGD" FullName="CHARLES-DE-GAULLE DEP" Callsign="LFPG_DEP" Frequency="0" HandoffEligible="true" CSECEligible="true">
+    <Volumes>LFPG_TMA</Volumes>
+  </Sector>
+  <Sector Name="LFPGF" FullName="CHARLES-DE-GAULLE FIN" Callsign="LFPG-F_APP" Frequency="0" HandoffEligible="true" CSECEligible="true">
+    <Volumes>LFPG_TMA</Volumes>
+  </Sector>
+  <Sector Name="LFPGT" FullName="CHARLES-DE-GAULLE ADC" Callsign="LFPG_TWR" Frequency="0" HandoffEligible="false" CSECEligible="true">
+    <Volumes>LFPG_TMA</Volumes>
+  </Sector>
+  <Sector Name="LFPGG" FullName="CHARLES-DE-GAULLE SMC" Callsign="LFPG_GND" Frequency="0" HandoffEligible="false" CSECEligible="true">
+    <Volumes>LFPG_TMA</Volumes>
+  </Sector>
+  <Sector Name="LFPGC" FullName="CHARLES-DE-GAULLE COORD" Callsign="LFPG_DEL" Frequency="0" HandoffEligible="false" CSECEligible="true">
+    <Volumes>LFPG_TMA</Volumes>
+  </Sector>
+  <Sector Name="EIDWA" FullName="DUBLIN_INTL APP" Callsign="EIDW_APP" Frequency="0" HandoffEligible="true" CSECEligible="true">
+    <Volumes>EIDW_TMA</Volumes>
+  </Sector>
+  <Sector Name="EIDWD" FullName="DUBLIN_INTL DEP" Callsign="EIDW_DEP" Frequency="0" HandoffEligible="true" CSECEligible="true">
+    <Volumes>EIDW_TMA</Volumes>
+  </Sector>
+  <Sector Name="EIDWF" FullName="DUBLIN_INTL FIN" Callsign="EIDW-F_APP" Frequency="0" HandoffEligible="true" CSECEligible="true">
+    <Volumes>EIDW_TMA</Volumes>
+  </Sector>
+  <Sector Name="EIDWT" FullName="DUBLIN_INTL ADC" Callsign="EIDW_TWR" Frequency="0" HandoffEligible="false" CSECEligible="true">
+    <Volumes>EIDW_TMA</Volumes>
+  </Sector>
+  <Sector Name="EIDWG" FullName="DUBLIN_INTL SMC" Callsign="EIDW_GND" Frequency="0" HandoffEligible="false" CSECEligible="true">
+    <Volumes>EIDW_TMA</Volumes>
+  </Sector>
+  <Sector Name="EIDWC" FullName="DUBLIN_INTL COORD" Callsign="EIDW_DEL" Frequency="0" HandoffEligible="false" CSECEligible="true">
+    <Volumes>EIDW_TMA</Volumes>
+  </Sector>
+  <Sector Name="EHAMA" FullName="SCHIPHOL APP" Callsign="EHAM_APP" Frequency="0" HandoffEligible="true" CSECEligible="true">
+    <Volumes>EHAM_TMA</Volumes>
+  </Sector>
+  <Sector Name="EHAMD" FullName="SCHIPHOL DEP" Callsign="EHAM_DEP" Frequency="0" HandoffEligible="true" CSECEligible="true">
+    <Volumes>EHAM_TMA</Volumes>
+  </Sector>
+  <Sector Name="EHAMF" FullName="SCHIPHOL FIN" Callsign="EHAM-F_APP" Frequency="0" HandoffEligible="true" CSECEligible="true">
+    <Volumes>EHAM_TMA</Volumes>
+  </Sector>
+  <Sector Name="EHAMT" FullName="SCHIPHOL ADC" Callsign="EHAM_TWR" Frequency="0" HandoffEligible="false" CSECEligible="true">
+    <Volumes>EHAM_TMA</Volumes>
+  </Sector>
+  <Sector Name="EHAMG" FullName="SCHIPHOL SMC" Callsign="EHAM_GND" Frequency="0" HandoffEligible="false" CSECEligible="true">
+    <Volumes>EHAM_TMA</Volumes>
+  </Sector>
+  <Sector Name="EHAMC" FullName="SCHIPHOL COORD" Callsign="EHAM_DEL" Frequency="0" HandoffEligible="false" CSECEligible="true">
+    <Volumes>EHAM_TMA</Volumes>
+  </Sector>
+</Sectors>

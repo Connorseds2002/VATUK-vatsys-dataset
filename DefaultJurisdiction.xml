@@ -1,1 +1,38 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<DefaultJurisdiction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RuleSets>
+    <RuleSet Name="LFPG_DEPS">
+      <Rules>
+        <Departure Values="LFPG">
+          <Rules>
+            <Default>
+              <AssignSector Order="LFPGD,LFPGA" />
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="EIDW_DEPS">
+      <Rules>
+        <Departure Values="EIDW">
+          <Rules>
+            <Default>
+              <AssignSector Order="EIDWD,EIDWA" />
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="EHAM_DEPS">
+      <Rules>
+        <Departure Values="EHAM">
+          <Rules>
+            <Default>
+              <AssignSector Order="EHAMD,EHAMA" />
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+  </RuleSets>
+</DefaultJurisdiction>

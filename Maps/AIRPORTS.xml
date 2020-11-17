@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Name="ALL_AIRPORT_NAMES" Type="System" Priority="1">
+    <Label HasLeader="true">
+      <Point Name="EGAA - ALDERGROVE">+543927.0-0061257.0</Point>
+      <Point Name="EGAC - BELFAST CITY">+543705.0-0055221.0</Point>
+      <Point Name="EGAE - EGLINTON">+550234.0-0070943.0</Point>
+      <Point Name="EGBB - BIRMINGHAM">+522714.0-0014453.0</Point>
+      <Point Name="EGBE - COVENTRY">+522211.0-0012847.0</Point>
+      <Point Name="EGBP - KEMBLE">+514005.0-0020325.0</Point>
+      <Point Name="EGCC - MANCHESTER">+532114.0-0021630.0</Point>
+      <Point Name="EGCN - DONCASTER SHEFFIELD">+532831.0-0010015.0</Point>
+      <Point Name="EGDM - BOSCOMBE DOWN">+510911.91-0014503.64</Point>
+      <Point Name="EGDR - CULDROSE">+500507.42-0051514.66</Point>
+      <Point Name="EGDY - YEOVILTON">+510029.77-0023843.77</Point>
+      <Point Name="EGFD - LLANBEDR">+524817.0-0040738.0</Point>
+      <Point Name="EGFF - CARDIFF">+512348.0-0032036.0</Point>
+      <Point Name="EGGD - BRISTOL">+512258.0-0024309.0</Point>
+      <Point Name="EGGP - LIVERPOOL">+532001.0-0025059.0</Point>
+      <Point Name="EGGW - LUTON">+515229.0-0002206.0</Point>
+      <Point Name="EGHH - BOURNEMOUTH">+504648.0-0015033.0</Point>
+      <Point Name="EGHQ - NEWQUAY">+502627.0-0045943.0</Point>
+      <Point Name="EGKK - GATWICK">+510853.0-0001125.0</Point>
+      <Point Name="EGLF - FARNBOROUGH">+511631.0-0004639.0</Point>
+      <Point Name="EGLJ - CHALGROVE">+514028.0-0010507.0</Point>
+      <Point Name="EGLL - HEATHROW">+512839.0-0002741.0</Point>
+      <Point Name="EGMC - SOUTHEND">+513413.0+0004136.0</Point>
+      <Point Name="EGNC - CARLISLE">+545615.0-0024832.0</Point>
+      <Point Name="EGNH - BLACKPOOL">+534618.0-0030143.0</Point>
+      <Point Name="EGNJ - HUMBERSIDE">+533424.0-0002105.0</Point>
+      <Point Name="EGNM - LEEDS BRADFORD">+535158.0-0013939.0</Point>
+      <Point Name="EGNO - WARTON">+534442.09-0025300.37</Point>
+      <Point Name="EGNR - HAWARDEN">+531041.0-0025840.0</Point>
+      <Point Name="EGNS - ISLE OF MAN">+540500.0-0043724.0</Point>
+      <Point Name="EGNT - NEWCASTLE">+550217.0-0014123.0</Point>
+      <Point Name="EGNV - TEESSIDE INTL">+543033.0-0012546.0</Point>
+      <Point Name="EGNX - EAST MIDLANDS">+524952.0-0011940.0</Point>
+      <Point Name="EGOS - SHAWBURY">+524737.05-0024004.58</Point>
+      <Point Name="EGOV - VALLEY">+531453.39-0043207.2</Point>
+      <Point Name="EGPD - DYCE">+571209.0-0021153.0</Point>
+      <Point Name="EGPE - INVERNESS">+573233.0-0040251.0</Point>
+      <Point Name="EGPF - GLASGOW">+555219.0-0042559.0</Point>
+      <Point Name="EGPH - EDINBURGH">+555700.0-0032221.0</Point>
+      <Point Name="EGPK - PRESTWICK">+553034.0-0043540.0</Point>
+      <Point Name="EGPL - BENBECULA">+572850.0-0072150.0</Point>
+      <Point Name="EGPO - STORNOWAY">+581256.0-0061952.0</Point>
+      <Point Name="EGQK - KINLOSS">+573857.86-0033338.12</Point>
+      <Point Name="EGQL - LEUCHARS">+562221.59-0025206.6</Point>
+      <Point Name="EGQS - LOSSIEMOUTH">+574218.09-0032020.89</Point>
+      <Point Name="EGSC - CAMBRIDGE">+521218.0+0001030.0</Point>
+      <Point Name="EGSH - NORWICH">+524033.0+0011658.0</Point>
+      <Point Name="EGSS - STANSTED">+515306.0+0001406.0</Point>
+      <Point Name="EGSX - NORTH WEALD">+514318.0+0000915.0</Point>
+      <Point Name="EGTD - DUNSFOLD">+510702.0-0003209.0</Point>
+      <Point Name="EGTE - EXETER">+504403.0-0032450.0</Point>
+      <Point Name="EGUL - LAKENHEATH AB">+522433.86+0003339.64</Point>
+      <Point Name="EGUN - MILDENHALL AB">+522142.97+0002911.07</Point>
+      <Point Name="EGUW - WATTISHAM">+520737.31+0005719.49</Point>
+      <Point Name="EGVA - FAIRFORD AB">+514100.66-0014723.97</Point>
+      <Point Name="EGVN - BRIZE NORTON">+514459.94-0013458.61</Point>
+      <Point Name="EGVO - ODIHAM">+511403.09-0005634.11</Point>
+      <Point Name="EGXC - CONINGSBY">+530535.41-0000958.02</Point>
+      <Point Name="EGXE - LEEMING">+541733.09-0013207.42</Point>
+      <Point Name="EGXP - SCAMPTON">+531828.61-0003302.95</Point>
+      <Point Name="EGXT - WITTERING">+523647.0-0002833.26</Point>
+      <Point Name="EGXU - LINTON-ON-OUSE">+540257.81-0011511.15</Point>
+      <Point Name="EGXW - WADDINGTON">+530958.17-0003125.82</Point>
+      <Point Name="EGYD - CRANWELL">+530147.03-0002933.91</Point>
+      <Point Name="EGYE - BARKSTON HEATH">+525746.73-0003337.16</Point>
+      <Point Name="EGYM - MARHAM">+523854.27+0003302.42</Point>
+      <Point Name="EGYP - MOUNT PLEASANT">-514918.44-0582722.0</Point>
+    </Label>
+  </Map>
+</Maps>

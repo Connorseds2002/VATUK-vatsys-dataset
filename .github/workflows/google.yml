@@ -1,0 +1,11 @@
+name: chat-pull-request 
+on:
+  pull_request:
+    types: [opened, reopened]
+jobs:
+  chat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: delivery-much/actions-chat@v1
+        with:
+          url: ${{ secrets.https://chat.googleapis.com/v1/spaces/AAAA3I_Vfs8/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=PYdKwSifIIPSgFI-LLwrEY-c-EEPSxZh0X3MR1JjFa4%3D}}

@@ -18,4 +18,4 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
-This can be from charts as well to help in adding this to the next update
+This can be from charts as well to help in adding this to the next update but will be added not the next cycle 

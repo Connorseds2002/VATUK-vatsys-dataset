@@ -6,25 +6,121 @@
     <Frequency Airport="EGPD" Frequency="121.85" />
     <Frequency Airport="EGAC" Frequency="136.62" />
     <Frequency Airport="EGKB" Frequency="135.67" />
+    <Frequency Airport="EGBB" Frequency="136.02" />
+    <Frequency Airport="EGNH" Frequency="127.20" />
+    <Frequency Airport="EGHH" Frequency="133.72" />
+    <Frequency Airport="EGGD" Frequency="126.03" />
+    <Frequency Airport="EGSC" Frequency="134.60" />
+    <Frequency Airport="EGFF" Frequency="132.47" />
+    <Frequency Airport="EGNC" Frequency="118.42" />
+    <Frequency Airport="EGCN" Frequency="134.95" />
+    <Frequency Airport="EGPN" Frequency="119.33" />
+    <Frequency Airport="EGNX" Frequency="122.67" />
+    <Frequency Airport="EGPH" Frequency="131.35" />
+    <Frequency Airport="EGTE" Frequency="119.33" />
+    <Frequency Airport="EGLF" Frequency="128.40" />
+    <Frequency Airport="EGPF" Frequency="125.97" />
+    <Frequency Airport="EGBJ" Frequency="127.48" />
+    <Frequency Airport="EGJB" Frequency="118.90" />
+    <Frequency Airport="EGNR" Frequency="125.43" />
+    <Frequency Airport="EGNJ" Frequency="124.12" />
+    <Frequency Airport="EGPE" Frequency="124.70" />
+    <Frequency Airport="EGNS" Frequency="123.88" />
+    <Frequency Airport="EGJJ" Frequency="134.67" />
+    <Frequency Airport="EGNM" Frequency="118.02" />
+    <Frequency Airport="EGGP" Frequency="124.35" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EG" Frequency="1" />
   </Frequencies>
   <Translations>
     <!-- Airport spoken in the atis -->
     <Translation String="EGAA" Spoken="Aldergrove" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGAC" Spoken"Belfast" />
-    <Translation String="EGKB" Spoken"Biggin Hill" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
-    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken="Aberdeen" />
+    <Translation String="EGAC" Spoken="Belfast" />
+    <Translation String="EGKB" Spoken="Biggin Hill" />
+    <Translation String="EGBB" Spoken="Birmingham " />
+    <Translation String="EGNH" Spoken="Blackpool" />
+    <Translation String="EGHH" Spoken="Bournemouth " />
+    <Translation String="EGGD" Spoken="Bristol" />
+    <Translation String="EGSC" Spoken="Cambridge" />
+    <Translation String="EGFF" Spoken="Cardiff" />
+    <Translation String="EGNC" Spoken="Carlisle" />
+    <Translation String="EGCN" Spoken="Doncaster" />
+    <Translation String="EGPN" Spoken="Dundee" />
+    <Translation String="EGNX" Spoken="East Midlands" />
+    <Translation String="EGPH" Spoken="Edinburgh" />
+    <Translation String="EGTE" Spoken="Exeter" />
+    <Translation String="EGLF" Spoken="Farnborough" />
+    <Translation String="EGPF" Spoken="Glasgow" />
+    <Translation String="EGBJ" Spoken="Gloucestershire" />
+    <Translation String="EGJB" Spoken="Guernsey" />
+    <Translation String="EGNR" Spoken="Hawarden" />
+    <Translation String="EGNJ" Spoken="Humberside" />
+    <Translation String="EGPE" Spoken="Inverness" />
+    <Translation String="EGNS" Spoken="Isle of Man" />
+    <Translation String="EGJJ" Spoken="Jersey" />
+    <Translation String="EGNM" Spoken="Leeds" />
+    <Translation String="EGGP" Spoken="Liverpool" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
+    <Translation String="EG" Spoken="" />
     <!-- all the data required for the atis to work-->
      <Translation String="ATIS" Spoken="information" />
 

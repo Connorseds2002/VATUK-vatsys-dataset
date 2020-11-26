@@ -130,7 +130,9 @@
     <Message Response="NE">ROUTE [ROUTE]</Message>
     <Message Response="NE">INIT CLIMB ON SID IS [LEVEL]</Message>
     <Message Response="NE">SQUAWK [SSR]</Message>
-	<Message Response="NE">PDC READBACK IS NOT REQUIRED CALL GOUND WHEN READY FOR PUSH AND START WITH AIRCRAFT TYPE AND STAND NUMBER ON [FREQUENCY]</Message>
+	<Message Response="NE">PDC READBACK IS NOT REQUIRED</Message>
+  <Message Response="NE">CALL [TEXT] WHEN READY FOR PUSH AND START WITH AIRCRAFT TYPE AND STAND NUMBER ON </Message>
+  <Message Response="NE">[FREQUENCY] have a save flight</Message>
   </Category>
   <Category name="Speed">
     <Message Response="WU">MAINTAIN [SPEED]</Message>

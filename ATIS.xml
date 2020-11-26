@@ -2,13 +2,31 @@
 <ATIS>
  <Frequencies>
     <!-- Airport fequence for the atis -->
-    <Frequency Airport="EGAA" Frequency="134.0" />
+    <Frequency Airport="EGAA" Frequency="128.20" />
+    <Frequency Airport="EGPD" Frequency="121.85" />
+    <Frequency Airport="EGAC" Frequency="136.62" />
+    <Frequency Airport="EGKB" Frequency="135.67" />
   </Frequencies>
   <Translations>
     <!-- Airport spoken in the atis -->
-    <Translation String="EGAA" Spoken="Goroka" />
+    <Translation String="EGAA" Spoken="Aldergrove" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGAC" Spoken"Belfast" />
+    <Translation String="EGKB" Spoken"Biggin Hill" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
+    <Translation String="EGPD" Spoken"Aberdeen" />
     <!-- all the data required for the atis to work-->
-     <Translation String="ATIS" Spoken="terminal information" />
+     <Translation String="ATIS" Spoken="information" />
 
     <Translation String="A" Spoken="alpha" />
     <Translation String="B" Spoken="bravo" />

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Profile Name="VATUK" FullName="VATUK (EGTT - EGPX)">
-	<Version AIRAC="2011" Revision="a" PublishDate="20201031" UpdateURL="" />
+	<Version AIRAC="2100" Revision="a" PublishDate="20210101" UpdateURL="" />
 	<Servers>
-		<VATSIMStatus url="http://status.vatsim.net/" />
-		<GRIB url="http://sawbe.com/GRIB/" />
+		<VATSIMStatus url="https://status.vatsim.net/" />
+		<GRIB url="https://sawbe.com/GRIB/" />
 		<G2G url="antifaff.vatsys.sawbe.com" port="64738" />
-		<SequenceLadder url="http://sawbe.com/vatsim/data/" />
+		<SequenceLadder url="https://sawbe.com/vatsim/data/" />
 	</Servers>	
 </Profile>

@@ -29,9 +29,9 @@
     <Frequency Airport="EGJJ" Frequency="134.67" />
     <Frequency Airport="EGNM" Frequency="118.02" />
     <Frequency Airport="EGGP" Frequency="124.35" />
-    <Frequency Airport="EG" Frequency="1" />
-    <Frequency Airport="EG" Frequency="1" />
-    <Frequency Airport="EG" Frequency="1" />
+    <Frequency Airport="EGLC" Frequency="129.45" />
+    <Frequency Airport="EGKK" Frequency="134.22" />
+    <Frequency Airport="EGLL" Frequency="128.07" />
     <Frequency Airport="EG" Frequency="1" />
     <Frequency Airport="EG" Frequency="1" />
     <Frequency Airport="EG" Frequency="1" />
@@ -90,9 +90,9 @@
     <Translation String="EGJJ" Spoken="Jersey" />
     <Translation String="EGNM" Spoken="Leeds" />
     <Translation String="EGGP" Spoken="Liverpool" />
-    <Translation String="EG" Spoken="" />
-    <Translation String="EG" Spoken="" />
-    <Translation String="EG" Spoken="" />
+    <Translation String="EGLC" Spoken="City" />
+    <Translation String="EGKK" Spoken="Gatwick" />
+    <Translation String="EGLL" Spoken="Heathrow" />
     <Translation String="EG" Spoken="" />
     <Translation String="EG" Spoken="" />
     <Translation String="EG" Spoken="" />

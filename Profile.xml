@@ -6,5 +6,6 @@
 		<GRIB url="https://sawbe.com/GRIB/" />
 		<G2G url="antifaff.vatsys.sawbe.com" port="64738" />
 		<SequenceLadder url="https://sawbe.com/vatsim/data/" />
+		<LocalHosy url="127.0.0.1"
 	</Servers>	
 </Profile>
